@@ -1,1 +1,9 @@
 machinelearning-az/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+
+*/*.log
+*/*.nb.html
+*/*.tex
+

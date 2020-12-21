@@ -1,0 +1,12 @@
+---
+title: "Preprocessing Template"
+output:
+  html_notebook: default
+  pdf_document: default
+---
+
+
+```{r}
+plot(cars)
+```
+
