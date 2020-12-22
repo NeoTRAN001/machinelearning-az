@@ -8,3 +8,5 @@ machinelearning-az/
 */*.tex
 */*.RData
 */*.Rhistory
+
+.Rhistory
