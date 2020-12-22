@@ -6,4 +6,5 @@ machinelearning-az/
 */*.log
 */*.nb.html
 */*.tex
-
+*/*.RData
+*/*.Rhistory
