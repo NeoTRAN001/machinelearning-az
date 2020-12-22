@@ -7,6 +7,9 @@ output:
 
 
 ```{r}
-plot(cars)
+ # Import  DataSet
+ # Get elements by ID
+
+  dataset = read.csv('Data.csv')
 ```
 
