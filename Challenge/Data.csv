@@ -1,0 +1,11 @@
+name,Age,Salary,Purchased
+Juan,44,72000,No
+Dan,27,48000,Yes
+House,30,54000,No
+Sherlock,38,61000,No
+Memo,40,,Yes
+Steven,35,58000,Yes
+Ralf,,52000,No
+Brown,48,79000,Yes
+Fernando,50,83000,No
+Rocky,37,,Yes
