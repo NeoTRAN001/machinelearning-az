@@ -1,0 +1,11 @@
+Name,Age,Salary,Status
+Juan,44,72000,alive
+Dan,27,48000,alive
+House,30,54000,dead
+Sherlock,38,61000,dead
+Memo,40,,alive
+Steven,35,58000,alive
+Ralf,,52000,dead
+Brown,48,79000,alive
+Fernando,50,83000,dead
+Rocky,37,,alive
