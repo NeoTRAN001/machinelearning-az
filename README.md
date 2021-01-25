@@ -1,4 +1,4 @@
-# Machinelearning A - Z
+# Machine learning A - Z
 Scripts Machine Learning A-Z
 
 ### With Python and R
